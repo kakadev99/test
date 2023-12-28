@@ -1,0 +1,230 @@
+[
+  {
+    "answer": "Java",
+    "category": "Programming",
+    "level": 1,
+    "question": "What is the main difference between Java and Kotlin?"
+  },
+  {
+    "answer": "Photosynthesis",
+    "category": "Science",
+    "level": 3,
+    "question": "Explain the process of photosynthesis in plants."
+  },
+  {
+    "answer": "Rome",
+    "category": "History",
+    "level": 2,
+    "question": "Which ancient civilization is known for the creation of the Roman Empire?"
+  },
+  {
+    "answer": "Beethoven",
+    "category": "Music",
+    "level": 1,
+    "question": "Who composed the Symphony No. 9 in D minor, Op. 125, also known as the Choral Symphony?"
+  },
+  {
+    "answer": "Gravity",
+    "category": "Physics",
+    "level": 3,
+    "question": "What force is responsible for the attraction between two masses in the universe?"
+  },
+  {
+    "answer": "Leonardo da Vinci",
+    "category": "Art",
+    "level": 1,
+    "question": "Who painted the Mona Lisa?"
+  },
+  {
+    "answer": "Python",
+    "category": "Programming",
+    "level": 2,
+    "question": "Name a popular programming language for data science."
+  },
+  {
+    "answer": "Albert Einstein",
+    "category": "Science",
+    "level": 3,
+    "question": "Who developed the theory of relativity?"
+  },
+  {
+    "answer": "French Revolution",
+    "category": "History",
+    "level": 1,
+    "question": "In which period did the French Revolution take place?"
+  },
+  {
+    "answer": "Mozart",
+    "category": "Music",
+    "level": 2,
+    "question": "Who composed the opera 'The Magic Flute'?"
+  },
+  {
+    "answer": "Newton's Laws",
+    "category": "Physics",
+    "level": 3,
+    "question": "Explain one of Newton's three laws of motion."
+  },
+  {
+    "answer": "Vincent van Gogh",
+    "category": "Art",
+    "level": 1,
+    "question": "Who painted 'Starry Night'?"
+  },
+  {
+    "answer": "Kotlin",
+    "category": "Programming",
+    "level": 2,
+    "question": "Name a programming language that runs on the Java Virtual Machine (JVM)."
+  },
+  {
+    "answer": "DNA",
+    "category": "Science",
+    "level": 3,
+    "question": "What is the genetic material that carries the instructions for the development and functioning of living organisms?"
+  },
+  {
+    "answer": "Ancient Greece",
+    "category": "History",
+    "level": 1,
+    "question": "Which civilization is considered the cradle of Western civilization and democracy?"
+  },
+  {
+    "answer": "Johann Sebastian Bach",
+    "category": "Music",
+    "level": 2,
+    "question": "Who composed the Brandenburg Concertos?"
+  },
+  {
+    "answer": "Electromagnetism",
+    "category": "Physics",
+    "level": 3,
+    "question": "What is the branch of physics that deals with the study of electric and magnetic fields?"
+  },
+  {
+    "answer": "Salvador Dali",
+    "category": "Art",
+    "level": 1,
+    "question": "Who is known for the surrealist painting 'The Persistence of Memory'?"
+  },
+  {
+    "answer": "Android",
+    "category": "Programming",
+    "level": 2,
+    "question": "Which operating system is used as the foundation for most mobile devices?"
+  },
+  {
+    "answer": "Black Holes",
+    "category": "Science",
+    "level": 3,
+    "question": "What are regions of spacetime exhibiting gravitational acceleration so strong that nothing—no particles or even electromagnetic radiation such as light—can escape from it?"
+  },
+  {
+    "answer": "C++",
+    "category": "Programming",
+    "level": 1,
+    "question": "Which programming language is often used for game development alongside Unreal Engine?"
+  },
+  {
+    "answer": "Mitosis",
+    "category": "Science",
+    "level": 2,
+    "question": "What is the process of cell division that results in two daughter cells with the same chromosome number as the parent cell?"
+  },
+  {
+    "answer": "World War II",
+    "category": "History",
+    "level": 3,
+    "question": "In which war did the Battle of Stalingrad take place?"
+  },
+  {
+    "answer": "Miles Davis",
+    "category": "Music",
+    "level": 1,
+    "question": "Who is known as one of the most influential jazz musicians of all time and played the trumpet?"
+  },
+  {
+    "answer": "Quantum Mechanics",
+    "category": "Physics",
+    "level": 3,
+    "question": "What branch of physics deals with the behavior of very small particles, such as atoms and subatomic particles?"
+  },
+  {
+    "answer": "Pablo Picasso",
+    "category": "Art",
+    "level": 1,
+    "question": "Who co-founded the Cubist movement and created 'Guernica'?"
+  },
+  {
+    "answer": "Swift",
+    "category": "Programming",
+    "level": 2,
+    "question": "Which programming language is primarily used for developing iOS and macOS applications?"
+  },
+  {
+    "answer": "Genetics",
+    "category": "Science",
+    "level": 3,
+    "question": "What is the study of genes, heredity, and genetic variation in living organisms?"
+  },
+  {
+    "answer": "Ancient Egypt",
+    "category": "History",
+    "level": 1,
+    "question": "Which civilization is known for the construction of the pyramids, including the Great Pyramid of Giza?"
+  },
+  {
+    "answer": "Wolfgang Amadeus Mozart",
+    "category": "Music",
+    "level": 2,
+    "question": "Who composed 'The Marriage of Figaro'?"
+  },
+  {
+    "answer": "Special Relativity",
+    "category": "Physics",
+    "level": 3,
+    "question": "What theory, proposed by Einstein, describes the relationship between space and time?"
+  },
+  {
+    "answer": "Claude Monet",
+    "category": "Art",
+    "level": 1,
+    "question": "Who was a founder of French Impressionist painting and is famous for 'Water Lilies'?"
+  },
+  {
+    "answer": "HTML",
+    "category": "Programming",
+    "level": 2,
+    "question": "What markup language is used for creating the structure of web pages?"
+  },
+  {
+    "answer": "Neurons",
+    "category": "Science",
+    "level": 3,
+    "question": "What are the basic building blocks of the nervous system, responsible for transmitting information?"
+  },
+  {
+    "answer": "Roman Empire",
+    "category": "History",
+    "level": 1,
+    "question": "Which ancient empire was known for its vast territorial expansion and architectural achievements like the Colosseum?"
+  },
+  {
+    "answer": "Ludwig van Beethoven",
+    "category": "Music",
+    "level": 2,
+    "question": "Who composed the Symphony No. 6 in F major, also known as the 'Pastoral Symphony'?"
+  },
+  {
+    "answer": "Quantum Physics",
+    "category": "Physics",
+    "level": 3,
+    "question": "What is the study of the behavior of matter and energy at the quantum level?"
+  },
+  {
+    "answer": "Edvard Munch",
+    "category": "Art",
+    "level": 1,
+    "question": "Who painted 'The Scream'"
+  }
+]
